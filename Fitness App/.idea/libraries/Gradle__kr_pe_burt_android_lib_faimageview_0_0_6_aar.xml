@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: kr.pe.burt.android.lib:faimageview:0.0.6@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c90d800fe611a2d5a0901e2d4a4795c4/jetified-faimageview-0.0.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c90d800fe611a2d5a0901e2d4a4795c4/jetified-faimageview-0.0.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c90d800fe611a2d5a0901e2d4a4795c4/jetified-faimageview-0.0.6/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/kr.pe.burt.android.lib/faimageview/0.0.6/4b78230b4a89e5dd6c3bec86b6b1dbc4a3c1c192/faimageview-0.0.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/kr.pe.burt.android.lib/faimageview/0.0.6/3111c11a01ff63e2f7b732954826c074d5aa6472/faimageview-0.0.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

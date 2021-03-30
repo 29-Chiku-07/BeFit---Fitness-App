@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.bignerdranch.android:recyclerview-multiselect:0.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c662369e84edd4b113fad7f37d526c32/jetified-recyclerview-multiselect-0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c662369e84edd4b113fad7f37d526c32/jetified-recyclerview-multiselect-0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c662369e84edd4b113fad7f37d526c32/jetified-recyclerview-multiselect-0.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3c7a39aaac22ac1e8e9f04b5f38e5921/jetified-recyclerview-multiselect-0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3c7a39aaac22ac1e8e9f04b5f38e5921/jetified-recyclerview-multiselect-0.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3c7a39aaac22ac1e8e9f04b5f38e5921/jetified-recyclerview-multiselect-0.2/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
